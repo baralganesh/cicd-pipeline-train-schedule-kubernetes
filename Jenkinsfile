@@ -47,6 +47,7 @@ pipeline {
                 milestone(1)
                 //implement Kubernetes deployment here
             }
+            
         }
     }
 }
